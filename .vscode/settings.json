@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "addrs",
+        "childs",
+        "ecsign",
+        "keccak",
+        "Numberify",
+        "solcjs"
+    ],
+    "files.associations": {
+        "*.json": "jsonc",
+        "package": "json"
+    }
+}

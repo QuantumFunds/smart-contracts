@@ -1,0 +1,7 @@
+build/
+flatten/
+node_modules/
+.vs/
+yarn.lock
+doc/*.pdf
+test/config.ts

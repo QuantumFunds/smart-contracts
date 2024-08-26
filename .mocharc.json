@@ -1,0 +1,11 @@
+{
+  "extension": [
+    "ts"
+  ],
+  //"spec": "./test/Popularized.ts", 
+  //"spec": "./test/Mining.ts",
+  "spec": "./test/Build.ts",
+  //"spec": "./test/*.ts",
+  "require": "ts-node/register",
+  "timeout": 1200000
+}
